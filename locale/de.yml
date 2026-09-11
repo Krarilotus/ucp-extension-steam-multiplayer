@@ -1,0 +1,7 @@
+ui.steam-multiplayer: Steam-Mehrspieler
+ui.detect-game-variant-upon-launch-and-set-steam-appid-txt: Spielvariante beim Start erkennen und steam_appid.txt
+  setzen
+? ui.steam-may-be-confused-on-which-game-variant-you-launch-if-not-launched-from-within-steam-this-feature-sets-steam-s-meta-file-so-it-recognizes-it-correctly
+: Wird das Spiel außerhalb von Steam gestartet, erkennt Steam die Spielvariante möglicherweise falsch. Diese Funktion
+  setzt die Steam-Metadatei zur korrekten Erkennung.
+tags.multiplayer: Mehrspieler

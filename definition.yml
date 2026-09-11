@@ -11,8 +11,3 @@ dependencies:
   frontend: ">=1.0.13"
 tags:
 - multiplayer
-capabilities:
-  files: false
-  code: true
-  configuration: false
-  options: true

@@ -1,0 +1,5 @@
+ui.steam-multiplayer: Steam 多人游戏
+ui.detect-game-variant-upon-launch-and-set-steam-appid-txt: 启动时检测游戏版本并设置 steam_appid.txt
+? ui.steam-may-be-confused-on-which-game-variant-you-launch-if-not-launched-from-within-steam-this-feature-sets-steam-s-meta-file-so-it-recognizes-it-correctly
+: 若不是从 Steam 内启动游戏，Steam 可能无法正确识别游戏版本。此功能设置 Steam 的元数据文件，使其正确识别。
+tags.multiplayer: 多人游戏

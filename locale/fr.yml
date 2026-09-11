@@ -1,0 +1,7 @@
+ui.steam-multiplayer: Multijoueur Steam
+ui.detect-game-variant-upon-launch-and-set-steam-appid-txt: Détecter la variante du jeu au lancement et définir
+  steam_appid.txt
+? ui.steam-may-be-confused-on-which-game-variant-you-launch-if-not-launched-from-within-steam-this-feature-sets-steam-s-meta-file-so-it-recognizes-it-correctly
+: Si le jeu est lancé hors de Steam, Steam peut se tromper de variante. Cette fonction définit le fichier de métadonnées
+  de Steam pour permettre une reconnaissance correcte.
+tags.multiplayer: Multijoueur

@@ -1,0 +1,7 @@
+ui.steam-multiplayer: Steam çok oyunculu
+ui.detect-game-variant-upon-launch-and-set-steam-appid-txt: Başlangıçta oyun sürümünü algıla ve steam_appid.txt
+  dosyasını ayarla
+? ui.steam-may-be-confused-on-which-game-variant-you-launch-if-not-launched-from-within-steam-this-feature-sets-steam-s-meta-file-so-it-recognizes-it-correctly
+: Oyun Steam dışından başlatılırsa Steam hangi sürümün açıldığını karıştırabilir. Bu özellik, doğru tanınması için
+  Steam’in meta veri dosyasını ayarlar.
+tags.multiplayer: Çok oyunculu

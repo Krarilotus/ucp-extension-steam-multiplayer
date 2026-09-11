@@ -1,0 +1,7 @@
+ui.steam-multiplayer: Steam többjátékos mód
+ui.detect-game-variant-upon-launch-and-set-steam-appid-txt: A játékváltozat felismerése indításkor és a steam_appid.txt
+  beállítása
+? ui.steam-may-be-confused-on-which-game-variant-you-launch-if-not-launched-from-within-steam-this-feature-sets-steam-s-meta-file-so-it-recognizes-it-correctly
+: Ha nem a Steamből indítod a játékot, a Steam tévesen ismerheti fel a változatot. Ez a funkció beállítja a Steam
+  metaadatfájlját a helyes felismeréshez.
+tags.multiplayer: Többjátékos

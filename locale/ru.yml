@@ -1,0 +1,6 @@
+ui.steam-multiplayer: Сетевая игра Steam
+ui.detect-game-variant-upon-launch-and-set-steam-appid-txt: Определять вариант игры при запуске и задавать steam_appid.txt
+? ui.steam-may-be-confused-on-which-game-variant-you-launch-if-not-launched-from-within-steam-this-feature-sets-steam-s-meta-file-so-it-recognizes-it-correctly
+: При запуске не через Steam он может неверно определить вариант игры. Эта функция задаёт файл метаданных Steam
+  для правильного распознавания.
+tags.multiplayer: Сетевая игра

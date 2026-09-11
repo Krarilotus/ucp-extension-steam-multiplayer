@@ -1,0 +1,6 @@
+ui.steam-multiplayer: Steam Multiplayer
+ui.detect-game-variant-upon-launch-and-set-steam-appid-txt: Detect game variant upon launch and set steam_appid.txt
+? ui.steam-may-be-confused-on-which-game-variant-you-launch-if-not-launched-from-within-steam-this-feature-sets-steam-s-meta-file-so-it-recognizes-it-correctly
+: Steam may be confused on which game variant you launch if not launched from within Steam. This feature sets Steam's
+  meta file so it recognizes it correctly.
+tags.multiplayer: Multiplayer
